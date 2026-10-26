@@ -1,0 +1,6 @@
+tracker
+tracker.exe
+*.o
+expenses.txt
+tracker.cpp
+tracker_phase*.cpp
